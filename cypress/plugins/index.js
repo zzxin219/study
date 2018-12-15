@@ -1,6 +1,6 @@
 // ***********************************************************
 // This example plugins/index.js can be used to load plugins
-//
+//11111
 // You can change the location of this file or turn off loading
 // the plugins file with the 'pluginsFile' configuration option.
 //
