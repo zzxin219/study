@@ -1,5 +1,5 @@
 import { suite } from '../utils/suite'
-
+22222
 suite('events tab', () => {
   it('should display new events counter', () => {
     cy.get('#target').iframe().then(({ get }) => {
